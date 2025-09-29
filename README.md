@@ -1,16 +1,26 @@
-### [6969视频中所使用的Manim源码]
+### [6969丶视频中所使用的Manim源码]
 
-<img width="223" height="103" alt="image" src="https://github.com/user-attachments/assets/3255ed7d-47d8-4b9f-bf36-56b99c87570e" />
 
-每集源码在对应的文件夹中
+![b_0fc1ab52194a9be4eadbdae900ce1a5b](https://github.com/user-attachments/assets/181b2fdd-42ac-41a2-8b7b-85754a9e9b09)
 
-目前更新三集，部分动画由keyboard制作
+每集源码在对应的文件夹中。
+部分动画效果通过keyboard加入，大部分都是由manim源码完成制作。
 
 ## 通过manim库绘制渲染如下的动画
 
-<img width="762" height="366" alt="image" src="https://github.com/user-attachments/assets/e14965f1-13b2-4bda-acfd-6ba2895286d4" />
 
-<img width="762" height="369" alt="image" src="https://github.com/user-attachments/assets/5f48ef1d-6b79-4bff-8954-ac6b1c2fc73c" />
+
+https://github.com/user-attachments/assets/cac06e9d-d59d-4ba0-9979-24dbf5ba1c18
+
+
+
+https://github.com/user-attachments/assets/f676a05c-e1c8-434f-bab5-e64827dcf8da
+
+
+
+
+https://github.com/user-attachments/assets/d65b129c-96ff-4b67-92d3-202c293ce44b
+
 
 
 
