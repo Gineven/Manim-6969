@@ -1,7 +1,9 @@
 ### [6969丶视频中所使用的Manim源码]
 
+<img src="https://github.com/user-attachments/assets/181b2fdd-42ac-41a2-8b7b-85754a9e9b09" width=40%>
 
-![b_0fc1ab52194a9be4eadbdae900ce1a5b](https://github.com/user-attachments/assets/181b2fdd-42ac-41a2-8b7b-85754a9e9b09)
+
+# ![b_0fc1ab52194a9be4eadbdae900ce1a5b](https://github.com/user-attachments/assets/181b2fdd-42ac-41a2-8b7b-85754a9e9b09)
 
 每集源码在对应的文件夹中。
 部分动画效果通过keyboard加入，大部分都是由manim源码完成制作。
